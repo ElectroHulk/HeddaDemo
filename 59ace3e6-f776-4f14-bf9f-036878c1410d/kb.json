@@ -1,0 +1,15 @@
+{
+  "Id": "59ace3e6-f776-4f14-bf9f-036878c1410d",
+  "ActiveVersionNumber": 0,
+  "Name": "Demo KB",
+  "Description": "\u003Cp\u003EDemo\u003C/p\u003E",
+  "Category": null,
+  "DataResponsibilityOffice": null,
+  "OwnerId": "00000000-0000-0000-0000-000000000000",
+  "ContactEmail": null,
+  "Options": null,
+  "CreatedBy": "f305c8a1-e513-4e8a-9b0c-95a83539e76f",
+  "CreatedOn": "2025-05-27T09:50:19.0349626Z",
+  "ModifiedBy": "f305c8a1-e513-4e8a-9b0c-95a83539e76f",
+  "ModifiedOn": "2025-05-27T09:50:19.0349626Z"
+}
