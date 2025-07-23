@@ -21,7 +21,7 @@
   "Actions": [],
   "IsDataflowRule": false,
   "RulebookId": "0564bc25-0dfa-4775-83f0-d7d2fc75e768",
-  "ValidSuccessor": null,
+  "ValidSuccessor": "59db5238-d9cf-437e-8324-91da604d3fe5",
   "InvalidSuccessor": null,
   "CreatedBy": "77ab53e8-dce1-4286-bb0d-d3f6a5b5820b",
   "CreatedOn": "2025-07-23T10:41:32.0210987Z",
