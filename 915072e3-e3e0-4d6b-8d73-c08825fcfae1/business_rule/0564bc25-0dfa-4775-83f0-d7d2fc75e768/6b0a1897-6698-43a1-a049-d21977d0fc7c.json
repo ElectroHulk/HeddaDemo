@@ -1,11 +1,11 @@
 {
-  "Id": "59db5238-d9cf-437e-8324-91da604d3fe5",
-  "Name": "BR2",
+  "Id": "6b0a1897-6698-43a1-a049-d21977d0fc7c",
+  "Name": "BR3",
   "Description": null,
   "DQDimensionId": 1,
   "Preparation": [],
   "Condition": {
-    "Key": "4dc199b4-7ac9-4d31-8b2f-7890594523fe",
+    "Key": "b9fe78e4-3926-4a8b-9048-b5fcd452fbcc",
     "Domain": null,
     "Operator": {
       "Key": "and",
@@ -18,19 +18,19 @@
     "Level": 0,
     "Conditions": [
       {
-        "Key": "9c843c71-43bd-4cda-9198-c61ba008776c",
+        "Key": "3e1b280b-a181-4c98-b0ef-2b9336b54cfa",
         "Domain": {
-          "Id": "3109f93c-9195-4ecb-b288-7231cc57e8ff",
-          "Name": "Dom1",
-          "DataType": 2
+          "Id": "273deeab-d24f-4dbb-af4a-bbaa8f837efe",
+          "Name": "DomVar1",
+          "DataType": 1
         },
         "Operator": {
-          "Key": "lt",
+          "Key": "endswith",
           "Name": null,
           "IsValue": false
         },
         "ValueSource": 0,
-        "Value": "8",
+        "Value": "aa",
         "Index": 0,
         "Level": 0,
         "Conditions": []
@@ -41,9 +41,9 @@
   "IsDataflowRule": false,
   "RulebookId": "0564bc25-0dfa-4775-83f0-d7d2fc75e768",
   "ValidSuccessor": null,
-  "InvalidSuccessor": "6b0a1897-6698-43a1-a049-d21977d0fc7c",
+  "InvalidSuccessor": null,
   "CreatedBy": "77ab53e8-dce1-4286-bb0d-d3f6a5b5820b",
-  "CreatedOn": "2025-07-23T10:41:59.1213168Z",
+  "CreatedOn": "2025-07-23T10:42:18.3258735Z",
   "ModifiedBy": "77ab53e8-dce1-4286-bb0d-d3f6a5b5820b",
-  "ModifiedOn": "2025-07-23T10:41:59.1213168Z"
+  "ModifiedOn": "2025-07-23T10:42:18.3258735Z"
 }
