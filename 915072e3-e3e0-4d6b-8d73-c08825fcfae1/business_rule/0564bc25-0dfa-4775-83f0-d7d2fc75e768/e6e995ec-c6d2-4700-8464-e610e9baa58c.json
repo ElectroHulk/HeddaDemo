@@ -1,0 +1,30 @@
+{
+  "Id": "e6e995ec-c6d2-4700-8464-e610e9baa58c",
+  "Name": "RB1",
+  "Description": null,
+  "DQDimensionId": 1,
+  "Preparation": [],
+  "Condition": {
+    "Key": "10dc2ccd-5367-4040-ab04-67c8bbdd8f49",
+    "Domain": null,
+    "Operator": {
+      "Key": "and",
+      "Name": "And",
+      "IsValue": false
+    },
+    "ValueSource": 0,
+    "Value": null,
+    "Index": 0,
+    "Level": 0,
+    "Conditions": []
+  },
+  "Actions": [],
+  "IsDataflowRule": false,
+  "RulebookId": "0564bc25-0dfa-4775-83f0-d7d2fc75e768",
+  "ValidSuccessor": null,
+  "InvalidSuccessor": null,
+  "CreatedBy": "77ab53e8-dce1-4286-bb0d-d3f6a5b5820b",
+  "CreatedOn": "2025-07-23T10:41:32.0210987Z",
+  "ModifiedBy": "77ab53e8-dce1-4286-bb0d-d3f6a5b5820b",
+  "ModifiedOn": "2025-07-23T10:41:32.0210987Z"
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "0564bc25-0dfa-4775-83f0-d7d2fc75e768",
+  "Name": "RB1",
+  "Description": null,
+  "Position": 0,
+  "RootBusinessRuleId": "e6e995ec-c6d2-4700-8464-e610e9baa58c",
+  "CreatedBy": "77ab53e8-dce1-4286-bb0d-d3f6a5b5820b",
+  "CreatedOn": "2025-07-23T10:41:32.0140518Z",
+  "ModifiedBy": "77ab53e8-dce1-4286-bb0d-d3f6a5b5820b",
+  "ModifiedOn": "2025-07-23T10:41:32.0140518Z"
+}
