@@ -40,7 +40,7 @@
   "Actions": [],
   "IsDataflowRule": false,
   "RulebookId": "0564bc25-0dfa-4775-83f0-d7d2fc75e768",
-  "ValidSuccessor": "5546033e-2d2b-4710-bfe6-5de059117b37",
+  "ValidSuccessor": null,
   "InvalidSuccessor": null,
   "CreatedBy": "77ab53e8-dce1-4286-bb0d-d3f6a5b5820b",
   "CreatedOn": "2025-07-23T10:42:18.3258735Z",
