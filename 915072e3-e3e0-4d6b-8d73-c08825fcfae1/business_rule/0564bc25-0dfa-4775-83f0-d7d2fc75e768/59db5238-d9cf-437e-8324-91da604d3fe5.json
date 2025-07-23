@@ -8,8 +8,8 @@
     "Key": "4dc199b4-7ac9-4d31-8b2f-7890594523fe",
     "Domain": null,
     "Operator": {
-      "Key": "and",
-      "Name": "And",
+      "Key": "always",
+      "Name": null,
       "IsValue": false
     },
     "ValueSource": 0,
@@ -45,5 +45,5 @@
   "CreatedBy": "77ab53e8-dce1-4286-bb0d-d3f6a5b5820b",
   "CreatedOn": "2025-07-23T10:41:59.1213168Z",
   "ModifiedBy": "77ab53e8-dce1-4286-bb0d-d3f6a5b5820b",
-  "ModifiedOn": "2025-07-23T10:43:46.3920638Z"
+  "ModifiedOn": "2025-07-23T10:44:00.3545157Z"
 }
